@@ -54,4 +54,4 @@ This project was developed as part of a group effort:
 - Nidhi Reddy Janga (https://github.com/nidhireddyjanga)  
 - Shreya Rajeev (https://github.com/shreya05123)  
 - Navya B V (https://github.com/Navya-1008)
-- Poorvi V Shetty  
+- Poorvi V Shetty (https://github.com/poorvi22-shetty)
